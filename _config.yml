@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Zoey Guo"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Zoey Guo"
+description              : &description "Master of City Planning student at UPenn, specializing in Smart Cities. With a background in architecture and urban design, I focus on integrating new technologies in transportation, zero-emission vehicles, and green infrastructure."
+url                      : https://zoeyguo709.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://github.com/ZoeyGuo709/ZoeyGuo709.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Zoey Guo"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Master of City Planning student at UPenn, specializing in Smart Cities. With a background in architecture and urban design, I focus on integrating new technologies in transportation, zero-emission vehicles, and green infrastructure."
+  location         : "Philadelphia, PA"
+  school           : "University of Pennsylvania"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "guoziyi@upenn.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
