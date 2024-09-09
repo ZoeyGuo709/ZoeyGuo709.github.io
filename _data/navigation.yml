@@ -21,5 +21,8 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Social Work"
+    url: /portfolio/
+
   - title: "Guide"
     url: /markdown/
