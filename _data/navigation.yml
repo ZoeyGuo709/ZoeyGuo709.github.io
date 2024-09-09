@@ -10,10 +10,10 @@ main:
     url: /cv/
  
   - title: "Urban Design Works"
-    url: /portfolio/
+    url: _portfolio/portfolio-1.md
 
   - title: "Transportation Planning Works"
-    url: /portfolio/
+    url: /portfolio-1/
 
   - title: "Urban Analytics Works"
     url: /portfolio/
