@@ -1,2 +1,2 @@
-# Academic Pages
+# Personal Website
 Ziyi "Zoey" Guo
