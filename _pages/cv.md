@@ -57,6 +57,7 @@ Bachelor of Architecture, concentration in Urban Design, GPA: 3.92
 - Produced diagram and final booklet and poster using Adobe Photoshop, Illustrator, and InDesign.
 
 # Skills
+---
 
 * Programming Languages
   - Python, R, JavaScript, React, GAMA, NetLogo
@@ -65,11 +66,12 @@ Bachelor of Architecture, concentration in Urban Design, GPA: 3.92
 * Geospatial Analytics
   - ArcGIS, QGIS, Google Earth Engine, Depthmap
 * Graphic Design
-  - Adobe Suite (Photoshop, Illustrator, InDesign), Lumion, Vray, Enscape, Unity.
+  - Adobe Suite (Photoshop, Illustrator, InDesign), Lumion, Vray, Enscape, Unity, Kep;er. 
 * 3D Modeling
   - SketchUp, Rhino, Grasshopper, Blender, AutoCAD, Revit.
   
 # Service and leadership
+---
 * MIT City Science Summit
   - Develop preliminary ideas for the City Summit about collective decision making for city's land use planning to provide potential prototype for bottom-up urban planning.
   - Engage in design workshops for the City Summit, and work as Coordinator during the summit to engage participants.
