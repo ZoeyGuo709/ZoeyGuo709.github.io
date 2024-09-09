@@ -75,4 +75,5 @@ Bachelor of Architecture, concentration in Urban Design, GPA: 3.92
 * Sunners Social Development and Innovation Center
   - Leader and designer of Architecture and Cognitive Mapping workshops for rural children, in collaboration with One Take Architect and the Beijing Municipality Institute of City Planning and Design. Developed workshop materials and successfully conducted the workshops in over 50 camps across China.
   - Leader of the Community Courses Department. Designed a series of courses on cognitive mapping, art, and architecture for children from low-income families in Wuhan, China.
-
+* Huazhong Univeristy of Science and Technology
+  - Urban Village study in Wuhan and Shenzhen, China. propose bottom-up strategies for urban villages across the country. 
