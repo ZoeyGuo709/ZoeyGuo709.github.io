@@ -93,4 +93,4 @@ Courses:
   - Leader of the Community Courses Department. Designed a series of courses on cognitive mapping, art, and architecture for children from low-income families in Wuhan, China.
 * Huazhong Univeristy of Science and Technology
   - Urban Village study in Wuhan and Shenzhen, China. propose bottom-up strategies for urban villages across the country. 
-  - Leader of National 
+  - Leader of National University Student Innovation and Entrepreneurship Project: Research on Affordability and Site Selection of Long-Term Rental Apartments and Public Rental Housing
