@@ -21,7 +21,7 @@ repository               : "https://github.com/ZoeyGuo709/ZoeyGuo709.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/profile.png"
   name             : "Zoey Guo"
   pronouns         : "she/her"  
   bio              : "Master of City Planning student at UPenn, specializing in Smart Cities."
