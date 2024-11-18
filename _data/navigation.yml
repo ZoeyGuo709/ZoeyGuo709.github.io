@@ -10,7 +10,7 @@ main:
     url: /cv/
  
   - title: "Urban Design Works"
-    url: /portfolio/
+    url: /_portfolio/
 
   - title: "Transportation Planning Works"
     url: /portfolio/

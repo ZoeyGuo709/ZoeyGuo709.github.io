@@ -1,8 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Transportation Working Sample"
+excerpt: "Sample Of Working Sample<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
-portfolio link inserted here: [portfolio1](file:///D:/ZoeyGuo709.github.io/files/TransportationWork/TOD_Policy_Ziyi%20Guo.html, "Portfolio 1")
+portfolio link inserted here: [portfolio1]('D:\ZoeyGuo709.github.io\files\TransportationWork\TOD_Policy_Ziyi Guo.html', "Portfolio 1")
