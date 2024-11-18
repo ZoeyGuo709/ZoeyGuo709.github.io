@@ -13,20 +13,29 @@ redirect_from:
 ---
 
 **University of Pennsylvania** 
-Master of City Planning, concentration in Transportation Planning  
+Master of City Planning, concentration in Sustainable Transportation and Infrastructure Planning.
 *Expected May 2025*  
-courses:
+Courses:
 - Quantitiave Planning Methods
 - Multimodal Transportation
 - Transportation Planning Methods
 - Spatial Statistic
 - Spatial Optimization
 - Public Policy Analytics
+- Optimization Theory and Analytics
+- Planning Studio
 
 
 **Huazhong University of Science and Technology** 
 Bachelor of Architecture, concentration in Urban Design, GPA: 3.92  
 *Sep 2018 – Jun 2023*  
+Courses:
+- Architectural Design Studio (I, II)
+- Urban Design Capstone Studio
+- Urban Planning Theory
+- Urban Design Theory and Research
+- Computer Graphics and Expression
+- An Introduction to Optimization
 
 
 # Professional Experience
@@ -84,4 +93,4 @@ Bachelor of Architecture, concentration in Urban Design, GPA: 3.92
   - Leader of the Community Courses Department. Designed a series of courses on cognitive mapping, art, and architecture for children from low-income families in Wuhan, China.
 * Huazhong Univeristy of Science and Technology
   - Urban Village study in Wuhan and Shenzhen, China. propose bottom-up strategies for urban villages across the country. 
-  - 
+  - Leader of National 
