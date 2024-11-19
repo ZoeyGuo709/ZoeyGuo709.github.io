@@ -1,5 +1,5 @@
 ---
-title: "[Pedestrian and Cyclist Plan for City of Burlington](/files/Working Sample_Circulation Planning.pdf)"
-excerpt: "Pedestrian and Cyclist Plan for Burlington, NJ, designed to address highway-induced segregation, improve connectivity, and expand coverage, fostering a safer and more inclusive multimodal transportation network. 2<br/><img src='/images/Transp2_Profile.png' style='width: 800px; height: 300px;'>"
-collection: TransportationWork
+title: "[Urban Analytics]"
+excerpt: "Utilized R and Python to perform advanced spatial analytics, providing insights into urban patterns and supporting city decision-making processes. Projects included analyzing police patrolling strategies, housing price trends, drunk driving incidents, and other critical urban issues. <br/><img src='/images/AnalyticsProfile.png' style='width: 800px; height: 300px;'>"
+collection: portfolio
 ---
