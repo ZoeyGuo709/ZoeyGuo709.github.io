@@ -5,17 +5,17 @@ collection: portfolio
 ---
 
 
-[1. TOD Research for Los Angeles](../../files/Transp_TOD.html "1. TOD Research of Los Angeles")<br>
+[TOD Research for Los Angeles](../../files/Transp_TOD.html "TOD Research of Los Angeles")<br>
 Analyzed demographic, socio-economic, and transit data using R to evaluate 10-year changes in Los Angeles Transit-Oriented Development (TOD) areas.<br>
 Provided policy recommendations to address emerging challenges and opportunities resulting from transit development.
 
-[2. Pedestrian and Cyclist Plan for City of Burlington](../../files/Transp_PedsCycl.pdf "2. Pedestrian and Cyclist Plan for City of Burlington")<br>
+[Pedestrian and Cyclist Plan for City of Burlington](../../files/Transp_PedsCycl.pdf "Pedestrian and Cyclist Plan for City of Burlington")<br>
 Developed a comprehensive Pedestrian and Cyclist Plan for Burlington City, New Jersey, aimed at creating safe, inclusive, and connected infrastructure. The plan addresses critical challenges, including highway-induced segregation, safety concerns, and gaps in connectivity and coverage, to promote equitable and accessible mobility for all residents.
 
-[3. Electric vehicle supply equipment (EVSE) Deployment Plan for City of Philadelphia](../../files/Transp_EV.pdf "3. Electric vehicle supply equipment (EVSE) Deployment Plan for City of Philadelphia")<br>
+[Electric vehicle supply equipment (EVSE) Deployment Plan for City of Philadelphia](../../files/Transp_EV.pdf "Electric vehicle supply equipment (EVSE) Deployment Plan for City of Philadelphia")<br>
 Developed a EVSE deployment plan for city of philadelphia, conducted GIS analysis of the urban element, including current demographics and land use data. 
 
-[4. Space-Time Prediction of Bike Share Demand in NYC](../../files/PPA_BikeSharing.html "4. Space-Time Prediction of Bike Share Demand in NYC")<br>
+[Space-Time Prediction of Bike Share Demand in NYC](../../files/PPA_BikeSharing.html "Space-Time Prediction of Bike Share Demand in NYC")<br>
 Developed a predictive rebalancing strategy for bike-share systems to optimize bicycle and dock availability. Utilized fleet-based redistribution and predictive analytics to forecast demand patterns, ensuring equitable access, maximizing system efficiency, and enhancing user satisfaction.
 
 

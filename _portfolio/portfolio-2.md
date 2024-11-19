@@ -4,6 +4,5 @@ excerpt: "Utilized R and Python to perform advanced spatial analytics, providing
 collection: portfolio
 ---
 
-[1. TOD Research for Los Angeles](../../files/Transp_TOD.html "1. TOD Research of Los Angeles")<br>
-Analyzed demographic, socio-economic, and transit data using R to evaluate 10-year changes in Los Angeles Transit-Oriented Development (TOD) areas.<br>
-Provided policy recommendations to address emerging challenges and opportunities resulting from transit development.
+[Philadelphia Census Block Group Gentrification Prediction Using Machine Learning](../../files/PPA_PhillyGentrif.html "Philadelphia Census Block Group Gentrification Prediction Using Machine Learning")<br>
+Utilized machine learning to forecast gentrification patterns in Philadelphia census block groups, addressing the socioeconomic impacts on urban development, housing affordability, and community dynamics. This project leveraged 2018–2019 data for training and validation to provide policymakers and planners with actionable insights for equitable growth and inclusive development
