@@ -17,10 +17,7 @@ main:
     url: /teaching/
 
   - title: "Urban Design Works"
-    url: /posts/
+    url: /talks/
 
   - title: "Publications"
     url: /publications/
-
-  - title: "Social Work"
-    url: /portfolio/
