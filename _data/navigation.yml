@@ -8,15 +8,16 @@ main:
      
   - title: "CV"
     url: /cv/
- 
-  - title: "Urban Design Works"
-    url: /posts/
+
 
   - title: "Transportation Planning Works"
     url: /portfolio/
 
   - title: "Urban Analytics Works"
-    url: /portfolio/
+    url: /teaching/
+
+  - title: "Urban Design Works"
+    url: /posts/
 
   - title: "Publications"
     url: /publications/
