@@ -1,5 +1,5 @@
 ---
 title: "[TOD Research for Los Angeles](/files/TOD_Policy_ZiyiGuo.html)"
-excerpt: "Sample Of Working Sample<br/><img src='/images/Transp_Profile.png'style='width: 300px; height: 200px;'>"
+excerpt: "Sample Of Working Sample<br/><img src='/images/Transp_Profile.png' style='width: 300px; height: 200px;'>"
 collection: portfolio
 ---
