@@ -1,6 +1,6 @@
 ---
 title: "Urban Analytics"
-excerpt: "Utilized R and Python to perform advanced spatial analytics, providing insights into urban patterns and supporting city decision-making processes. Projects included analyzing police patrolling strategies, housing price trends, drunk driving incidents, and other critical urban issues. <br/><img src='/images/AnalyticsProfile.png' style='width: 800px; height: 400px;'>"
+excerpt: "Utilized R and Python to perform advanced spatial analytics, providing insights into urban patterns and supporting city decision-making processes. Projects included analyzing police patrolling strategies, housing price trends, drunk driving incidents, and other critical urban issues. <br/><img src='/images/AnalyticsProfile.png' style='width: 900px; height: 400px;'>"
 collection: portfolio
 ---
 
@@ -15,3 +15,6 @@ Conducted an OLS regression analysis to predict median house values in Philadelp
 
 [Predict Housing Value Research Part 3: Using Geographically Weighted Regression (GWR), Spatial Lag, and Spatial Error to Predict Median House Values in Philadelphia](../../files/STAT_MedianHHValue_GWR "Predict Housing Value Research Part 3: Using Geographically Weighted Regression (GWR), Spatial Lag, and Spatial Error to Predict Median House Values in Philadelphia")<br>
 Analyzed median house values in Philadelphia using OLS regression and advanced spatial econometric techniques, including geographically weighted regression (GWR) and spatial lag models. The study examined the impact of socio-economic factors such as educational attainment, vacancy rates, and poverty levels while addressing spatial dependencies to inform equitable and sustainable housing development strategies.
+
+[Predictive Policing](../../files/PPA_PredictivePolicing "Predictive Policing")<br>
+This project aims to predict robbery risk in Chicago, Illinois, by leveraging data from 311 service requests to identify spatial patterns and potential hotspots. The model incorporates features derived from data aggregated within each grid cell and calculates the distances from each cell to the five nearest data points to capture spatial relationships. Using this information, a predictive model is developed to assess robbery risk across the city.
