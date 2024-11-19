@@ -5,12 +5,12 @@ collection: portfolio
 ---
 
 
-[1. TOD Research for Los Angeles](../files/Transp_PedsCycl.html "1. TOD Research of Los Angeles")<br>
+[1. TOD Research for Los Angeles](files/Transp_TOD.html "1. TOD Research of Los Angeles")<br>
 Analyzed demographic, socio-economic, and transit data using R to evaluate 10-year changes in Los Angeles Transit-Oriented Development (TOD) areas.<br>
 Provided policy recommendations to address emerging challenges and opportunities resulting from transit development.
 
-[2. Pedestrian and Cyclist Plan for City of Burlington](../files/Transp_PedsCycl.pdf "2. Pedestrian and Cyclist Plan for City of Burlington")<br>
+[2. Pedestrian and Cyclist Plan for City of Burlington](files/Transp_PedsCycl.pdf "2. Pedestrian and Cyclist Plan for City of Burlington")<br>
 Developed a comprehensive Pedestrian and Cyclist Plan for Burlington City, New Jersey, aimed at creating safe, inclusive, and connected infrastructure. The plan addresses critical challenges, including highway-induced segregation, safety concerns, and gaps in connectivity and coverage, to promote equitable and accessible mobility for all residents.
 
-[3. Electric vehicle supply equipment (EVSE) Deployment Plan for City of Philadelphia](../files/Transp_EV.pdf "3. Electric vehicle supply equipment (EVSE) Deployment Plan for City of Philadelphia")<br>
+[3. Electric vehicle supply equipment (EVSE) Deployment Plan for City of Philadelphia](files/Transp_EV.pdf "3. Electric vehicle supply equipment (EVSE) Deployment Plan for City of Philadelphia")<br>
 Developed a EVSE deployment plan for city of philadelphia, .
