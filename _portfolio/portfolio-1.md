@@ -14,3 +14,8 @@ Developed a comprehensive Pedestrian and Cyclist Plan for Burlington City, New J
 
 [3. Electric vehicle supply equipment (EVSE) Deployment Plan for City of Philadelphia](../../files/Transp_EV.pdf "3. Electric vehicle supply equipment (EVSE) Deployment Plan for City of Philadelphia")<br>
 Developed a EVSE deployment plan for city of philadelphia, conducted GIS analysis of the urban element, including current demographics and land use data. 
+
+[4. Space-Time Prediction of Bike Share Demand in NYC](../../files/PPA_BikeSharing.html "4. Space-Time Prediction of Bike Share Demand in NYC")<br>
+Developed a predictive rebalancing strategy for bike-share systems to optimize bicycle and dock availability. Utilized fleet-based redistribution and predictive analytics to forecast demand patterns, ensuring equitable access, maximizing system efficiency, and enhancing user satisfaction.
+
+
