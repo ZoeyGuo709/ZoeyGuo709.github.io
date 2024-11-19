@@ -4,6 +4,6 @@ excerpt: "Sample Of Working Sample<br/><img src='/images/Transp_Profile.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
 
-Portfolio link inserted here: [TOD Research for Los Angeles](/files/TOD_Policy_ZiyiGuo.html "TOD Research of Los Angeles")
+ [1. TOD Research for Los Angeles](/files/TOD_Policy_ZiyiGuo.html "1. TOD Research of Los Angeles")
+ Analyzed demographic, socio-economic, and transit data using R to evaluate 10-year changes in Los Angeles Transit-Oriented Development (TOD) areas. Provided policy recommendations to address emerging challenges and opportunities resulting from transit development.
