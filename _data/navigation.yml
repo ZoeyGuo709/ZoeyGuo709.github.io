@@ -10,14 +10,9 @@ main:
     url: /cv/
 
 
-  - title: "Transportation Planning Works"
-    url: /TransportationWork/
+  - title: "portfolio"
+    url: /portfolio/
 
-  - title: "Urban Analytics Works"
-    url: /teaching/
-
-  - title: "Urban Design Works"
-    url: /talks/
 
   - title: "Publications"
     url: /publications/
