@@ -1,6 +1,6 @@
 ---
 title: "Urban Planning and Urban Design"
-excerpt: "This section highlights urban planning initiatives, emphasizing urban design while integrating policy frameworks and multidisciplinary approaches. It focuses on inclusive urban planning, transportation and logistics strategies, and urban renewal projects aimed at fostering sustainable and equitable development. <br/><img src='/images/UD_Profile.png' style='width: 6px; height: 400px;'>"
+excerpt: "This section highlights urban planning initiatives, emphasizing urban design while integrating policy frameworks and multidisciplinary approaches. It focuses on inclusive urban planning, transportation and logistics strategies, and urban renewal projects aimed at fostering sustainable and equitable development. <br/><img src='/images/UD_Profile.png' style='width: 600px; height: 400px;'>"
 collection: portfolio
 ---
 
